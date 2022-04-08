@@ -1,4 +1,4 @@
 # jocotest
 sdfsd
 
-Ez egy teszt
+Ez egy teszt 2_ de most pls rebase-elj
